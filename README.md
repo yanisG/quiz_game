@@ -1,16 +1,15 @@
 # spike_code_interview
 
-small game app that's respect a clean architecture and SOLID principles
+Small quiz game app using questions from opentdb API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The challenge is:
 
-A few resources to get you started if this is your first Flutter project:
+1/to make a small quiz game app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2/the code should be written with a clean architecture [ data | domain | presentation ].
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3/avoid using stateful widgets.
+
+4/respect SOLID principles.
